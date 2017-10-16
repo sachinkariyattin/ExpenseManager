@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419239886690",
+    "firebase_url": "https://expensetracker-cceef.firebaseio.com",
+    "project_id": "expensetracker-cceef",
+    "storage_bucket": "expensetracker-cceef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419239886690:android:8760d128d39d3880",
+        "android_client_info": {
+          "package_name": "com.sachin.pervasive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419239886690-5760q112kl9nmkk1t9nuvu24q8a2nfdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.pervasive",
+            "certificate_hash": "4f71b741e5c385d6a8845db9ead8ac6b33762d69"
+          }
+        },
+        {
+          "client_id": "419239886690-rqvu31e13cs1g58rp8ea8eq6f22p0abc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6vSZUZSSeGXnSqy-s6ze_bKGhlScFZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419239886690-rqvu31e13cs1g58rp8ea8eq6f22p0abc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
